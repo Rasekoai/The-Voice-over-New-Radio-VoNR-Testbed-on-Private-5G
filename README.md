@@ -97,7 +97,6 @@ Due to IMS limitations, an alternative **VoIP-over-5G solution** was deployed:
 
 ### **Architecture Diagram**
 Network_Topology.png
-**
 
 
 ✍️ *Author: Rasekoai Mokose* 
